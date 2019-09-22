@@ -1,21 +1,32 @@
 ---
 title: Munkuddens vägsamfällighetsförening
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+subtitle: 'Nog finns det mål och mening i vår färd - men det är vägen, som är mödan värd'
+image: /img/img-20190920-wa0000.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Här slutar allmän väg
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Det finns faktiskt fler enskilda vägar än allmänna vägar i Sverige. De som
+    har ansvar för de enskilda vägarna är ofta en vägförening. Som Tyresö
+    vägförening.
+
+
+    Gemensamt ansvarar vi för underhåll och förbättring av de vägar som ingår i
+    området. Vi i styrelsen ser som vår uppgift att se till att våra vägar har
+    god framkomlighet, hög trafiksäkerhet och så låg kostnad för föreningens
+    medlemmar som möjligt. Allt för att du ska kunna ta dig fram på ett så bra
+    och tryggt sätt som möjligt i vårt vackra Tyresö.
+
+
+    Äger du en fastighet inom vårt geografiska område är du automatiskt medlem i
+    föreningen. Välkommen.
 intro:
-  heading: What we offer
-  text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: 'Tyresö vägförening ansvarar för:'
+  text: |-
+    Allt som hör till föreningsarbetet
+    Åtgärdsprogram för vägunderhåll
+    Barmarksunderhåll
+    Vinterväghållning
+    Förbättringsarbeten
 products:
   - image: img/illustrations-coffee.svg
     text: >-
