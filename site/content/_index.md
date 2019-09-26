@@ -20,17 +20,17 @@ blurb:
     Äger du en fastighet inom vårt geografiska område är du automatiskt medlem i
     föreningen. Välkommen.
 intro:
-  heading: 'Tyresö vägförening ansvarar för:'
+  heading: Tyresö vägförening ansvarar för
   text: ' '
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/circle_01.png
     text: |-
       Allt som hör till föreningsarbetet
       Åtgärdsprogram för vägunderhåll
       Barmarksunderhåll
       Vinterväghållning
       Förbättringsarbeten
-  - image: /img/illustrations-coffee-gear.svg
+  - image: /img/circle_02.png
     text: >-
       We offer a small, but carefully curated selection of brewing gear and
       tools for every taste and experience level. No matter if you roast your
