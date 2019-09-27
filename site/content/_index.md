@@ -1,6 +1,6 @@
 ---
-title: Munkuddens vägsamfällighetsförening
-subtitle: 'Nog finns det mål och mening i vår färd - men det är vägen, som är mödan värd'
+title: Munkuddens vägsamfällighets&#x200b;förening
+subtitle: 'Nog finns det mål och mening i vår färd - men det är Storsandsvägen, som är mödan värd'
 image: /img/img-20190920-wa0000.jpg
 blurb:
   heading: Här slutar allmän väg
