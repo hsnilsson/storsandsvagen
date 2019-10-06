@@ -41,7 +41,7 @@ products:
       Vägskyltar
       Hastighetsgränser
 indelning:
-  heading: Our indelning
+  heading: Vägens indelning
   text: >-
     Vägen går mellan ? och ?. Du kommer till en tydligare karta via länken nedan.
 ---
