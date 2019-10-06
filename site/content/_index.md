@@ -40,9 +40,8 @@ products:
       Nykterhetskontroller
       Vägskyltar
       Hastighetsgränser
-values:
-  heading: Vägens indelning
+indelning:
+  heading: Our indelning
   text: >-
     Vägen går mellan ? och ?. Du kommer till en tydligare karta via länken nedan.
 ---
-
