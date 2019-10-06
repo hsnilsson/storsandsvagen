@@ -1,0 +1,6 @@
+/* Custom css for Storsandsvagen.tk */
+
+.blur {
+    -webkit-backdrop-filter: blur(3px);
+    backdrop-filter: blur(3px);
+}
