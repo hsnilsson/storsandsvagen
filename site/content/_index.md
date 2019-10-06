@@ -8,7 +8,7 @@ blurb:
   heading: Här slutar allmän väg
   text: >-
     Det finns faktiskt fler enskilda vägar än allmänna vägar i Sverige. De som
-    har ansvar för de enskilda vägarna är ofta en vägförening. Som Tyresö
+    har ansvar för de enskilda vägarna är ofta en vägförening. Som Munkuddens
     vägförening.
 
 
@@ -16,13 +16,13 @@ blurb:
     området. Vi i styrelsen ser som vår uppgift att se till att våra vägar har
     god framkomlighet, hög trafiksäkerhet och så låg kostnad för föreningens
     medlemmar som möjligt. Allt för att du ska kunna ta dig fram på ett så bra
-    och tryggt sätt som möjligt i vårt vackra Tyresö.
+    och tryggt sätt som möjligt i vårt vackra Munkudden.
 
 
     Äger du en fastighet inom vårt geografiska område är du automatiskt medlem i
     föreningen. Välkommen.
 intro:
-  heading: Tyresö vägförening ansvarar för
+  heading: Munkuddens vägförening ansvarar för
   text: ' '
 products:
   - image: /img/circle_01.png
@@ -43,7 +43,6 @@ products:
 values:
   heading: Vägens indelning
   text: >-
-    Vägen går mellan ? och ?. Du kommer till en tydligare karta via länken
-    nedan.
+    Vägen går mellan ? och ?. Du kommer till en tydligare karta via länken nedan.
 ---
 
