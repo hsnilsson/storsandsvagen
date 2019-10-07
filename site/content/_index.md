@@ -27,21 +27,23 @@ intro:
 products:
   - image: /img/circle_01.png
     text: |-
-      Allt som hör till föreningsarbetet
-      Åtgärdsprogram för vägunderhåll
-      Barmarksunderhåll
-      Vinterväghållning
+      Allt som hör till föreningsarbetet<br>
+      Åtgärdsprogram för vägunderhåll<br>
+      Barmarksunderhåll<br>
+      Vinterväghållning<br>
       Förbättringsarbeten
   - image: /img/circle_02.png
     text: |-
-      Vägbelysning
-      Parkeringsförseelser
-      Hastighetskontroller
-      Nykterhetskontroller
-      Vägskyltar
+      Vägbelysning<br>
+      Parkeringsförseelser<br>
+      Hastighetskontroller<br>
+      Nykterhetskontroller<br>
+      Vägskyltar<br>
       Hastighetsgränser
 indelning:
   heading: Vägens indelning
   text: >-
-    Vägen går mellan ? och ?. Du kommer till en tydligare karta via länken nedan.
+    Vägen går mellan ? och ?. Du kommer till en tydligare karta via länken
+    nedan.
 ---
+
