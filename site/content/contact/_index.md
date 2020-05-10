@@ -9,8 +9,6 @@ contact_entries:
 ---
 Munkuddens vägsamfällighetsförening
 
-Ordförande
-
-Kassör
-
-Sekreterare
+* Ordförande Dan Westerlind
+* Kassör 
+* Sekreterare Thomas Joansson 070-392 68 01 thojoh@live.se
