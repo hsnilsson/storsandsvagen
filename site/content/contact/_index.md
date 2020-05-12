@@ -1,11 +1,7 @@
 ---
 title: Kontakt
 logo: /img/logo-samples-32.png
-contact_entries:
-  - heading: M
-    text: vet ej
-  - heading: mm
-    text: vet ej
+contact_entries: []
 ---
 Munkuddens vägsamfällighetsförening
 
