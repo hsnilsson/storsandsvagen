@@ -1,6 +1,6 @@
 ---
-title: Årsmöten och styrelsemöten
-image: /img/untitled.png
+title: ' '
+image: /img/untitled.jpg
 heading: What we offer
 description: >-
   Munkuddens vägförening is the ultimate spot for coffee lovers who want to
