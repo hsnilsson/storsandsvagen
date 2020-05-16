@@ -7,7 +7,7 @@ blurb:
   text: >-
     Det finns faktiskt fler enskilda vägar än allmänna vägar i Sverige. De som
     har ansvar för de enskilda vägarna är ofta en vägförening. Som Munkuddens
-    vägförening.
+    vägsamfällighetsförening.
 
 
     Gemensamt ansvarar vi för underhåll och förbättring av de vägar som ingår i
@@ -17,31 +17,18 @@ blurb:
     och tryggt sätt som möjligt i vårt vackra Munkudden.
 
 
-    Äger du en fastighet inom vårt geografiska område är du automatiskt medlem i
+    Äger du en fastighet längs Storsandsvägen är du automatiskt medlem i
     föreningen. Välkommen.
 intro:
-  heading: Munkuddens vägförening ansvarar för
-  text: ' '
-products:
-  - image: /img/circle_01.png
-    text: |-
-      Allt som hör till föreningsarbetet<br>
-      Åtgärdsprogram för vägunderhåll<br>
-      Barmarksunderhåll<br>
-      Vinterväghållning<br>
-      Förbättringsarbeten
-  - image: /img/circle_02.png
-    text: |-
-      Vägbelysning<br>
-      Parkeringsförseelser<br>
-      Hastighetskontroller<br>
-      Nykterhetskontroller<br>
-      Vägskyltar<br>
-      Hastighetsgränser
+  heading: Munkuddens vägsamfällighetsförening ansvarar för
+  text: |-
+    Allt som hör till föreningsarbetet
+    Åtgärdsprogram för vägunderhåll
+    Sommar- och vinterväghållning
+    Förbättringsarbeten 
+products: []
 indelning:
-  heading: Vägens indelning
-  text: >-
-    Vägen går mellan ? och ?. Du kommer till en tydligare karta via länken
-    nedan.
+  heading: d
+  text: d
 ---
 
