@@ -10,11 +10,10 @@ blurb:
     vägsamfällighetsförening.
 
 
-    Gemensamt ansvarar vi för underhåll och förbättring av de vägar som ingår i
-    området. Vi i styrelsen ser som vår uppgift att se till att våra vägar har
-    god framkomlighet, hög trafiksäkerhet och så låg kostnad för föreningens
-    medlemmar som möjligt. Allt för att du ska kunna ta dig fram på ett så bra
-    och tryggt sätt som möjligt i vårt vackra Munkudden.
+    Gemensamt ansvarar vi för underhåll och förbättring av Storsandsvägen. Vi i
+    styrelsen ser som vår uppgift att se till att Storsandsvägen har god
+    framkomlighet, hög trafiksäkerhet och så låg kostnad för föreningens
+    medlemmar som möjligt.
 
 
     Äger du en fastighet längs Storsandsvägen är du automatiskt medlem i
