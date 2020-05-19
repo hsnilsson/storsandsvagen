@@ -13,7 +13,7 @@ blurb:
     Gemensamt ansvarar vi för underhåll och förbättring av Storsandsvägen. Vi i
     styrelsen ser som vår uppgift att se till att Storsandsvägen har god
     framkomlighet och hög trafiksäkerhet till så låg kostnad som möjligt för
-    föreningens.
+    föreningens medlemmar.
 
 
     Äger du en fastighet längs Storsandsvägen är du automatiskt medlem i
@@ -25,7 +25,7 @@ intro:
     och vinterväghållning samt förbättringsarbeten.
 products: []
 indelning:
-  heading: gg
-  text: g
+  heading: d
+  text: d
 ---
 
