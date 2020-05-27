@@ -7,8 +7,8 @@ indelning:
     text: >-
       Storsandsvägen är indelad i två zoner. Zon 1 slutar efter Storsandsvägen
       132. Zonerna har betydelse för vägavgiften. Åretruntboende i zon 1 betalar
-      5 andelar, i zon 2 är det 10 andelar. Sommarboende betalar i zon 1, 2
-      andelar, i zon 2 är det 4 andelar. Obebyggd tomt betalar 1 andel oberoende
-      av zon. En andel kostar 265 kr. Skogsfastigheter har andra andelstal.
+      5 andelar, i zon 2 betalar man 10 andelar. Sommarboende betalar i zon 1, 2
+      andelar, i zon 2, 4 andelar. Obebyggd tomt betalar 1 andel oberoende av
+      zon. En andel kostar 265 kr. Skogsfastigheter har andra andelstal.
 ---
 
