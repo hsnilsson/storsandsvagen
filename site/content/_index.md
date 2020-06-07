@@ -23,9 +23,5 @@ intro:
   text: >-
     Allt som hör till föreningsarbetet, åtgärdsprogram för vägunderhåll, sommar-
     och vinterväghållning samt förbättringsarbeten.
-products: []
-indelning:
-  heading: d
-  text: d
 ---
 
