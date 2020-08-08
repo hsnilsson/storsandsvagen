@@ -1,5 +1,5 @@
 ---
-title: Munkuddens vägsamfällighetsförening
+title: Munkuddens Vägsamfällighetsförening
 subtitle: Vägen som är mödan värd
 image: /img/img-20190920-wa0000.jpg
 blurb:
@@ -7,21 +7,15 @@ blurb:
   text: >-
     Det finns faktiskt fler enskilda vägar än allmänna vägar i Sverige. De som
     har ansvar för de enskilda vägarna är ofta en vägförening. Som Munkuddens
-    vägsamfällighetsförening.
+    Vägsamfällighetsförening.
 
 
-    Gemensamt ansvarar vi för underhåll och förbättring av Storsandsvägen. Vi i
-    styrelsen ser som vår uppgift att se till att Storsandsvägen har god
-    framkomlighet och hög trafiksäkerhet till så låg kostnad som möjligt för
-    föreningens medlemmar.
+    Gemensamt ansvarar vi för underhåll och förbättring av Storsandsvägen. Vi i styrelsen ser som vår uppgift att se till att Storsandsvägen har god framkomlighet och hög trafiksäkerhet till så låg kostnad som möjligt för samfällighetens medlemmar.
 
 
-    Äger du en fastighet längs Storsandsvägen är du automatiskt medlem i
-    föreningen. Välkommen.
+    Äger du en fastighet längs Storsandsvägen är du automatiskt medlem i samfälligheten. Välkommen.
 intro:
-  heading: Munkuddens vägsamfällighetsförening ansvarar för
-  text: >-
-    Allt som hör till föreningsarbetet, åtgärdsprogram för vägunderhåll, sommar-
-    och vinterväghållning samt förbättringsarbeten.
+  heading: Munkuddens Vägsamfällighetsförening ansvarar för
+  text: Allt som hör till föreningsarbetet, åtgärdsprogram för vägunderhåll,
+    sommar- och vinterväghållning samt förbättringsarbeten.
 ---
-
