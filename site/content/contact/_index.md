@@ -7,6 +7,6 @@ Munkuddens vägsamfällighetsförening
 
 * Ordförande; Dan Westerlind
 * Kassör; Ulf Wikman
-* Sekreterare; Thomas Joansson 
+* Sekreterare; Thomas Johansson 
 * Ordinarie ledamöter; Börje Svärd och Thomas Carlsson
 * Suppleanter; Ann-Britt Åström, Hazze Åström och Ulf Andersson.
