@@ -3,7 +3,7 @@ title: Kontakt
 logo: /img/logo-samples-32.png
 contact_entries: []
 ---
-Munkuddens vägsamfällighetsförening
+Munkuddens Vägsamfällighetsförening
 
 * Ordförande; Dan Westerlind
 * Kassör; Ulf Wikman
