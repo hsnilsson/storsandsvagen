@@ -1,5 +1,5 @@
 ---
-title: Information
+title: Årsmöten
 image: img/möten.jpg
 heading: test
 description: test
