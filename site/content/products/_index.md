@@ -21,7 +21,7 @@ main:
     alt: testvinter
   image3:
     image: img/icons-twitter.svg
-    alt: testfågel
+    alt: "testfågel "
 full_image: img/icons-vimeo.svg
 pricing:
   heading: test3
