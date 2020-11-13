@@ -1,8 +1,8 @@
 ---
 title: Årsmöte
 date: 2020-11-13T15:31:33.632Z
-description: Årsmöte
-image: /img/blog-chemex.jpg
+description: Årsmöte för 2019
+image: img/möten.jpg
 ---
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
