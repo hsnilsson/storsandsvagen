@@ -2,6 +2,7 @@
 title: Elkablar
 date: 2020-11-13T15:40:57.280Z
 description: Elkablar
+image: img/oip.jpg
 ---
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
