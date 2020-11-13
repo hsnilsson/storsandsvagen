@@ -1,5 +1,5 @@
 ---
-title: Information
+title: Årsmöte
 date: 2020-11-13T15:31:33.632Z
 description: Årsmöte
 image: /img/blog-chemex.jpg
