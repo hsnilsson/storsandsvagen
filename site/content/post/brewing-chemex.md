@@ -1,6 +1,6 @@
 ---
 title: Årsmöte
-date: 2020-11-13T15:31:33.632Z
+date: 2020-11-13T15:53:00.000Z
 description: Årsmöte för 2019
 image: img/möten.jpg
 ---
