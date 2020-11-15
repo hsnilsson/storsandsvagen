@@ -18,7 +18,7 @@ blurb:
 
     Välkommen.
 intro:
-  heading: Munkuddens Vägsamfällighetsförening ansvarar för
-  text: allt som hör till föreningsarbetet, åtgärdsprogram för vägunderhåll,
-    sommar- och vinterväghållning samt förbättringsarbeten.
+  heading: Munkuddens Vägsamfällighetsförening
+  text: ansvarar för allt som hör till föreningsarbetet, åtgärdsprogram för
+    vägunderhåll, sommar- och vinterväghållning samt förbättringsarbeten.
 ---
