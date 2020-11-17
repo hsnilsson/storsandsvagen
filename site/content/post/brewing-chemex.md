@@ -2,7 +2,7 @@
 title: Årsmöte
 date: 2020-11-13T15:53:00.000Z
 description: Årsmöte för 2019
-image: img/möten.jpg
+image: ""
 ---
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
