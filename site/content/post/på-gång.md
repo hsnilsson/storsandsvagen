@@ -2,18 +2,17 @@
 title: Vatten och avlopp i Gullvik
 date: 2020-11-13T15:45:16.603Z
 description: Vatten och avlopp i Gullvik
+image: img/ed88387c-73ba-4f18-b170-74102f98c8b1.webp
 ---
 <!--StartFragment-->
 
 <!--StartFragment-->
 
-![Tre områden i kommunen ses som särskilt prioriterade för att bygga ut det kommunala vatten-och avloppsnätet och ersätta privata brunnar.  Det handlar om Nyänget/Paddal, därefter Fjärdänget/Idbyn och i tredje hand Gullvik. ARKIVFOTO](img/ed88387c-73ba-4f18-b170-74102f98c8b1.webp)
+![Tre områden i kommunen ses som särskilt prioriterade för att bygga ut det kommunala vatten-och avloppsnätet och ersätta privata brunnar.  Det handlar om Nyänget/Paddal, därefter Fjärdänget/Idbyn och i tredje hand Gullvik. ARKIVFOTO]()
 
 <!--EndFragment-->
 
 # **Fler områden får** **kommunalt vatten**
-
-
 
 En utbyggnad av det kommunala vatten- och avloppsnätet har varit på tapeten under flera år i Örnsköldsvik.
 
