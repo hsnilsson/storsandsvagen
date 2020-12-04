@@ -4,13 +4,7 @@ date: 2020-11-29T14:53:22.548Z
 description: Elkablar
 image: img/oip.jpg
 ---
-> <!--\\[if gte mso 9]><xml>
->  <o:OfficeDocumentSettings>
->   <o:AllowPNG/>
->  </o:OfficeDocumentSettings>
-> </xml><!\\[endif]-->
-
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -50,9 +44,9 @@ image: img/oip.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -631,9 +625,9 @@ image: img/oip.jpg
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -650,7 +644,7 @@ image: img/oip.jpg
 	font-family:"Calibri",sans-serif;
 	mso-bidi-font-family:"Times New Roman";}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
