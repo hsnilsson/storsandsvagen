@@ -10,5 +10,3 @@ Munkuddens Vägsamfällighetsförening
 * Sekreterare; Thomas Johansson 
 * Ordinarie ledamöter; Börje Svärd och Thomas Carlsson
 * Suppleanter; Ann-Britt Åström, Hazze Åström och Ulf Andersson
-
-  [](styrelsenmunkudde@gmail.com)
