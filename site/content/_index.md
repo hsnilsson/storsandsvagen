@@ -1,5 +1,5 @@
 ---
-title: Munkuddens Vägsamfällig&#8203;hetsförening
+title: Munkuddens Vägsam&#8203;fällig&#8203;hets&#8203;förening
 subtitle: Vägen som är mödan värd
 image: /img/img-20190920-wa0000.jpg
 blurb:
