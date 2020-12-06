@@ -4,8 +4,6 @@ date: 2020-12-06T10:25:59.183Z
 description: Vem bor var efter Storsandsvägen?
 image: img/img-20190920-wa0000.jpg
 ---
-
-
 |                      |                                            |
 | -------------------- | ------------------------------------------ |
 | <!--StartFragment--> |                                            |
@@ -104,6 +102,5 @@ image: img/img-20190920-wa0000.jpg
 | 190                  | Häggblad Lars-Åke                          |
 | 192                  | Öberg Göran                                |
 | 196                  | Nordin Erik                                |
-| 198                  | Annelie Norman 
-                         |
+| 198                  | Annelie Norman                             |
 | <!--EndFragment-->   |                                            |
