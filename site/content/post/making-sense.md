@@ -4,8 +4,6 @@ date: 2020-11-13T22:33:59.811Z
 description: Vem bor var efter Storsandsvägen?
 image: img/img-20190920-wa0000.jpg
 ---
-
-
 |                      |                                            |
 | -------------------- | ------------------------------------------ |
 | <!--StartFragment--> |                                            |
@@ -90,7 +88,7 @@ image: img/img-20190920-wa0000.jpg
 | 181A                 | Jonsson Lennart                            |
 | 181B                 | Nordström Ulla-Britt                       |
 | 181C                 | Holmlund Karin                             |
-| 182                  | Norman Ulla                                |
+| 182                  | Norman  Ulla                               |
 | 183A                 | Torbjörn Byström                           |
 | 183B                 | Holmgren Birgitta                          |
 | 183C                 | Granlöf Lars-Ove                           |
@@ -103,7 +101,7 @@ image: img/img-20190920-wa0000.jpg
 | 190                  | Häggblad Lars-Åke                          |
 | 192                  | Öberg Göran                                |
 | 196                  | Nordin Erik                                |
-| 198                  | Norman Annelie                             |
+| 198                  | Norman  Annelie                            |
 |                      |                                            |
 |                      |                                            |
 | <!--EndFragment-->   |                                            |
