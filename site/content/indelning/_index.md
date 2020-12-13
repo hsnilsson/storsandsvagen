@@ -12,5 +12,5 @@ indelning:
       zon. En andel kostar 265 kr. Skogsfastigheter har andra andelstal.
 
 
-      Det är viktigt att medlemmar meddelar styrelsen förändrade boendeförhållanden så att vägavgiften blir korrekt. Därefter genomförs en förrättning av Lantmäteriet. Förrättningen kostar 1 500 kr för medlem. Kostnaden för samfälligheten är 3 800 kr för den första fastigheten och därefter 500 kr för fastigheter som anmäls vid samma tillfälle. Samfälligheten skickar in underlag till förrättning till Lantmäteriet först när vi erhållit minst 3 anmälningar om ändrade boendeförhållanden. Enskild fastighetsägare kan därför få vänta en längre tid på att bli fakturerad för förrättningskostnader.
+      Det är viktigt att medlemmar meddelar styrelsen förändrade boendeförhållanden så att vägavgiften blir korrekt. Därefter genomförs en förrättning av Lantmäteriet. Förrättningen kostar 1 500 kr för medlem. Kostnaden för samfälligheten är 3 800 kr för den första fastigheten och därefter 500 kr/fastighet som anmäls vid samma tillfälle. Samfälligheten ansöker om förrättning hos Lantmäteriet först när vi erhållit minst 3 anmälningar om ändrade boendeförhållanden. Enskild fastighetsägare kan därför få vänta en längre tid på att bli fakturerad för förrättningskostnaden.
 ---
