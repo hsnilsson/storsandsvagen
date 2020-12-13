@@ -26,7 +26,7 @@ image: img/img-20190920-wa0000.jpg
 | 110                  | Olsson Kent                                |
 | 112                  | Nilsson John Erik                          |
 | 114                  | Marklin Elisabet                           |
-| 116                  | Rönnqvist                                  |
+| 116                  | Rönnqvist Karin                            |
 | 118                  | Rönnlund Joanna                            |
 | 120                  | Herrgård Fredrik                           |
 | 122                  | Byström Stig                               |
@@ -45,7 +45,7 @@ image: img/img-20190920-wa0000.jpg
 | 136                  | Schulze Jörgen                             |
 | 138                  | Schulze Jörgen                             |
 | 139                  | Boström Dan                                |
-| 140                  | Jansson Michael,  Maria E.                 |
+| 140                  | Jansson Michael, Maria Edblad -Jansson     |
 | 141                  | Bagger Carina                              |
 | 142 A 142 B          | Rydman Tomas, Rydman Johan                 |
 | 144                  | Andersson Ulf, Christina                   |
@@ -76,7 +76,7 @@ image: img/img-20190920-wa0000.jpg
 | 171                  | Carlsson Thomas  Carlsson Maria            |
 | 173                  | Carlsson Thomas  Carlsson Maria            |
 | 172                  | Norgren Anders, Norgren Marie              |
-| 174                  | Robert Munck, Maria Näslund                |
+| 174                  | Maria Näslund, Robert Munck                |
 | 175                  | Ödmark Lars                                |
 | 177B                 | Wallin Christina,  Nyström Anders          |
 | 176                  | Johansson Sally                            |
