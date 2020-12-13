@@ -45,7 +45,7 @@ image: img/img-20190920-wa0000.jpg
 | 136                  | Schulze Jörgen                             |
 | 138                  | Schulze Jörgen                             |
 | 139                  | Boström Dan                                |
-| 140                  | Jansson Michael, Maria Edblad -Jansson     |
+| 140                  | Maria Edblad -Jansson, Jansson Michael     |
 | 141                  | Bagger Carina                              |
 | 142 A 142 B          | Rydman Tomas, Rydman Johan                 |
 | 144                  | Andersson Ulf, Christina                   |
@@ -59,11 +59,11 @@ image: img/img-20190920-wa0000.jpg
 | 155                  | Oreland Peter                              |
 | 156                  | Stoltz Per Olof                            |
 | 158                  | Stoltz Per Olof                            |
-| 157A                 | Lindqvist Jan,  Holmberg Eva               |
+| 157A                 | Holmberg Eva, Lindqvist Jan                |
 | 157B                 | Abrahamsson Dick                           |
 | 159                  | Wiklund KG                                 |
 | 160                  | Douzette Birgitta                          |
-| 161                  | Haglund Svante,  Ann-Sofi                  |
+| 161                  | Ann-Sofi Haglund, Svante Haglund           |
 | 162                  | Åström Ann-Britt                           |
 | 163                  | Rosita Demez                               |
 | 164                  | Marklund Ann                               |
