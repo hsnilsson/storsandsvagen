@@ -93,7 +93,7 @@ image: img/img-20190920-wa0000.jpg
 | 183A                 | Torbjörn Byström                           |
 | 183B                 | Holmgren Birgitta                          |
 | 183C                 | Granlöf Lars-Ove                           |
-| 183D                 | Lundqvist Rune                             |
+| 183D                 | Lundqvist Ing-Britt                        |
 | 184                  | Schulze Jörgen                             |
 | 186                  | Schulze Jörgen                             |
 | 185                  | Nilsson Inger, Bo                          |
