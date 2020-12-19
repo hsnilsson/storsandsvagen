@@ -1,6 +1,6 @@
 ---
 title: Kontakt
-logo: /img/logo-samples-32.png
+logo: /img/munkudden.jpg
 contact_entries: []
 ---
 Munkuddens Vägsamfällighetsförening
