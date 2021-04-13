@@ -12,5 +12,5 @@ indelning:
       av zon. En andel kostar 265 kr. Skogsfastigheter har andra andelstal.
 
 
-      Det är viktigt att medlemmar meddelar styrelsen förändrade boendeförhållanden så att vägavgiften blir korrekt. Därefter genomförs en förrättning av Lantmäteriet. Förrättningen kostar 1 500 kr för medlem. Kostnaden för samfälligheten är 1 800 kr för den första fastigheten och därefter 600 kr/fastighet som anmäls vid samma tillfälle. Samfälligheten ansöker om förrättning hos Lantmäteriet först när vi erhållit minst 3 anmälningar om ändrade boendeförhållanden. Enskild fastighetsägare kan därför få vänta en längre tid på att bli fakturerad för förrättningskostnaden.
+      Det är viktigt att medlemmar meddelar styrelsen förändrade boendeförhållanden så att vägavgiften blir korrekt. Därefter genomförs en förrättning av Lantmäteriet. Kostnaden för förrättningen är för närvarande under behandling av styrelsen. Ett beslut kommer före sommaren -21. Styrelsen har fått olika uppgifter angående kostnader vid olika tillfällen och ett troligt beslut är att de som deltagit i förrättningen betalar det som fakturerats Munkuddens Vägsamfällighetsförening. Det kan också bli så att Munkuddens Vägsamfällighetsförening står för en del av kostnaden, anmälningsavgiften.
 ---
