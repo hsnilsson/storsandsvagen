@@ -10,7 +10,7 @@ image: img/img-20190920-wa0000.jpg
 |                      |                                            |
 | Nr                   | Fastighetsägare                            |
 |                      |                                            |
-| 0                    | Jonsson Ulf                                |
+| 0                    |                                            |
 | 0                    | Örnsköldsviks kommun                       |
 | 0                    | Örnsköldsviks kommun                       |
 | 0                    | Flodman Örjan                              |
@@ -36,8 +36,8 @@ image: img/img-20190920-wa0000.jpg
 | 127                  | Lindberg Agneta                            |
 | 128                  | Gustafsson Carin                           |
 | 131                  | Gustafsson Carin                           |
-| 130                  | Hellsten Rolf                              |
-| 133                  | Hellsten Rolf                              |
+| 130                  | Hellsten Maria                             |
+| 133                  | Hellsten Maria                             |
 | 132                  | Edblom Carin                               |
 | 134                  | Johansson Helen                            |
 | 135                  | Bagger Naime                               |
@@ -45,10 +45,10 @@ image: img/img-20190920-wa0000.jpg
 | 136                  | Schulze Jörgen                             |
 | 138                  | Schulze Jörgen                             |
 | 139                  | Boström Dan                                |
-| 140                  | Maria Edblad -Jansson, Jansson Michael     |
+| 140                  | Edblad -Jansson Maria, Jansson Michael     |
 | 141                  | Bagger Carina                              |
 | 142 A 142 B          | Rydman Tomas, Rydman Johan                 |
-| 144                  | Andersson Ulf, Christina                   |
+| 144                  | Andersson Ulf, Andersson Christina         |
 | 146                  | Ann-Catrin Backros                         |
 | 148                  | Jansson Runa                               |
 | 151                  | Jansson Runa                               |
@@ -86,7 +86,7 @@ image: img/img-20190920-wa0000.jpg
 | 179B                 | Björkström Hans                            |
 | 179C                 | Werkestam Robert                           |
 | 180                  | Mähler Monica                              |
-| 181A                 | Jonsson Lennart                            |
+| 181A                 | Jonsson Gunvor                             |
 | 181B                 | Nordström Ulla-Britt                       |
 | 181C                 | Holmlund Karin                             |
 | 182                  | Ulla Norman                                |
