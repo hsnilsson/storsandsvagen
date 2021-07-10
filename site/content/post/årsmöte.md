@@ -1,7 +1,7 @@
 ---
-title: Årsmöte
-date: 2020-11-13T15:53:00.000Z
-description: Årsmöte för 2019
+title: Dagordning
+date: 2021-07-10T19:46:43.587Z
+description: Årsmöte för 2020
 image: img/möten.jpg
 ---
 <!--\[if gte mso 9]><xml>
@@ -664,92 +664,60 @@ image: img/möten.jpg
 
 <!--StartFragment-->
 
- 
+Dagordning
 
- 
+1. Mötets öppnande
 
-§ 1 Dan Westerlind öppnade mötet och hälsade alla välkomna.
+2. Röstlängd upprättas
 
-§ 2 En tyst minut hölls för under året avlidna medlemmar, Eina Hellsten och Sam Rönnqvist.
+3. Mötets behöriga utlysning
 
-§ 3 Röstlängd upprättades. Bil. 1
+4. Fastställande av dagordning
 
-§ 4 Mötet fanns behörigt utlyst.
+5. Val av ordförande för mötet
 
-§ 5 Dagordningen godkändes efter att § 18 strukits, det valet ägde rum vid årsmötet för 2018.
+6. Val av sekreterare för mötet
 
-§ 6 Dan Westerlind valdes till ordförande för mötet.
+7. Val av 2 justeringsmän att tillsammans med ordförande justera protokollet
 
-§ 7 Thomas Johansson valdes till sekreterare för mötet.
+8. Föredragning av verksamhetsberättelsen
 
-§ 8 John-Erik Nilsson och Bo Holmlund valdes att tillsammans med ordförande justera protokollet.
+9. Föredragning av ekonomiska rapporten
 
-§ 9 Dan Westerlind föredrog verksamhetsberättelsen. Bil. 2.
+10. Föredragning av revisionsberättelsen
 
-§ 10 Ulf Wikman föredrog den ekonomiska rapporten. Bil. 3.
+11. Styrelsens ansvarsfrihet
 
-§ 11 Ulf Wikman läste upp revisionsberättelsen. Bil. 4.
+12. Framställningar från styrelsen eller motioner från medlemmar
 
-§ 12 Styrelsen beviljades ansvarsfrihet för år 2019.
+13. Ersättning till styrelse och revisorer
 
-§ 13 Mejl från medlemmar angående bidrag, skötsel och drift av Storsandsvägen lästes upp. Bil. 5. Årsmötet beslutade att styrelsen kontaktar Örnsköldsviks kommun för att försöka förändra kommunens ekonomiska stöd till vägsamfälligheten. Styrelsen ska också undersöka möjligheten att sätta upp skylt/skyltar vid Munkudden med texten camping förbjuden.
+14. Styrelsens förslag till utgifts- och inkomststat samt debiteringslängd
 
-§ 14 Enligt beslut 2010
+15. Val av 2 ordinarie ledamöter till styrelsen för 2 år
 
-§ 15 Styrelsens förslag till utgifts- och inkomststat samt debiteringslängd bifölls. Vägavgiften blir med andra ord oförändrad.
+16. Val av ordförande för styrelsen för 1 år
 
-§16 Börje Svärd, Thomas Carlsson och Thomas Johansson valdes till ledamöter i styrelsen för 2 år.
+17. Val av 3 styrelsesuppleanter för 1 år
 
-§ 17 Dan Westerlind valdes till styrelsens ordförande för 1 år.
+18. Val av 2 revisorer för 2 år
 
-§ 18 Ann-Britt Åström, Hazze Åström och Ulf Andersson valdes till styrelsesuppleanter för 1 år.
+19. Val av 2 revisorssuppleanter för 2 år
 
-§ 19 Birgitta Holmgren har frågat om Gunvor Jonsson vill ingå i valberedningen. Gunvor har tackat ja.
+20. Informationsärenden; stugsista, festkommitté
 
- 
+21. Övriga frågor som önskas tas upp skall vara styrelsen tillhanda senast 2020-07-25
 
- 
+Mejl till [styrelsenmunkudden@gmail.com](styrelsenmunkudden@gmail.com)
 
- 
+22. Meddelande om plats där mötesprotokollet hålls tillgängligt
 
-§ 20 Stugsista blir den 15 augusti. John-Erik Nilsson sköter om uppsättning av skylt. Efter en kort diskussion beslutades att stugsistan årligen ska hållas sista helgen innan skolstart.
-
-Festkommittén meddelade att årets fest ställs in på grund av covid-19.
-
-Jörgen Schulze har hjälpt till med att ta fram ett utgångsmaterial och support till en hemsida för vägsamfälligheten. Styrelsens sekreterare arbetar nu med att utforma hemsidan vidare. Hemsidan är gratis och kommer inte att medföra några avgifter för samfälligheten. Det beslutades att bjuda in Jörgen till nästa års fest.
-
-§ 21 Protokoll mejlas senast 2020-09-01 till medlemmarna.
-
-§ 22 Dan Westerlind avslutade mötet och bjöd in till kaffe med bulle.
+23. Avslutning med kaffe & bulle
 
  
 
  
 
-Sekreterare                                                                    Ordförande
-
- 
-
-Thomas Johansson                                                         Dan Westerlind
-
- 
-
- 
-
-Justeringsman                                                                Justeringsman
-
- 
-
-Bo Holmlund                                                                  John-Erik Nilsson
-
- 
-
- 
-
- 
-
- 
-
- 
+Hjärtligt välkomna och trevlig fortsättning på sommaren önskar styrelsen
 
 <!--EndFragment-->
