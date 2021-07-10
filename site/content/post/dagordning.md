@@ -4,7 +4,7 @@ date: 2021-07-10T19:54:45.843Z
 description: |-
   Kallelse till Munkuddens vägsamfällighetsförenings årsmöte för 2020.
   Gullviks havsbad lördag 2021-07-31 kl. 10.00
-image: ""
+image: img/möten.jpg
 ---
 
 1. Mötets öppnande
