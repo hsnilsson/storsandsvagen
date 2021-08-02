@@ -48,7 +48,7 @@ image: img/img-20190920-wa0000.jpg
 | 140                  | Edblad -Jansson Maria, Jansson Michael     |
 | 141                  | Bagger Carina                              |
 | 142 A 142 B          | Rydman Tomas, Rydman Johan                 |
-| 144                  | Andersson Ulf, Andersson Christina         |
+| 144                  | Andersson Christina, Andersson Ulf         |
 | 146                  | Ann-Catrin Backros                         |
 | 148                  | Jansson Runa                               |
 | 151                  | Jansson Runa                               |
@@ -73,8 +73,8 @@ image: img/img-20190920-wa0000.jpg
 | 169                  | Bylund Rolf                                |
 | 170                  | Söderquvist Ingela                         |
 | 0                    | Söderquvist Ingela                         |
-| 171                  | Carlsson Thomas  Carlsson Maria            |
-| 173                  | Carlsson Thomas  Carlsson Maria            |
+| 171                  | Carlsson Thomas,  Carlsson Maria            |
+| 173                  | Carlsson Thomas,  Carlsson Maria            |
 | 172                  | Norgren Anders, Norgren Marie              |
 | 174                  | Maria Näslund, Robert Munck                |
 | 175                  | Ödmark Lars                                |
@@ -101,6 +101,6 @@ image: img/img-20190920-wa0000.jpg
 | 188                  | Börjesson George                           |
 | 190                  | Häggblad Lars-Åke                          |
 | 192                  | Öberg Göran                                |
-| 196                  | Nordin Erik                                |
+| 196                  | Bäck Helena, Bäck Göran                                |
 | 198                  | Annelie Norman                             |
 | <!--EndFragment-->   |                                            |
