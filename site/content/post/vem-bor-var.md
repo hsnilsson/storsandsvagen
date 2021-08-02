@@ -8,9 +8,9 @@ image: img/img-20190920-wa0000.jpg
 | -------------------- | ------------------------------------------ |
 | <!--StartFragment--> |                                            |
 |                      |                                            |
-| Nr                   | Fastighetsägare                            |
+|                      | Fastighetsägare                            |
 |                      |                                            |
-| 0                    |                                            |
+|                      |                                            |
 | 0                    | Örnsköldsviks kommun                       |
 | 0                    | Örnsköldsviks kommun                       |
 | 0                    | Flodman Örjan                              |
@@ -59,8 +59,8 @@ image: img/img-20190920-wa0000.jpg
 | 155                  | Oreland Peter                              |
 | 156                  | Stoltz Per Olof                            |
 | 158                  | Stoltz Per Olof                            |
-| 157A                 | Holmberg Eva, Lindqvist Jan                |
-| 157B                 | Abrahamsson Dick                           |
+| 157 A                | Holmberg Eva, Lindqvist Jan                |
+| 157 B                | Abrahamsson Dick                           |
 | 159                  | Wiklund KG                                 |
 | 160                  | Douzette Birgitta                          |
 | 161                  | Ann-Sofi Haglund, Svante Haglund           |
@@ -73,8 +73,8 @@ image: img/img-20190920-wa0000.jpg
 | 169                  | Bylund Rolf                                |
 | 170                  | Söderquvist Ingela                         |
 | 0                    | Söderquvist Ingela                         |
-| 171                  | Carlsson Thomas,  Carlsson Maria            |
-| 173                  | Carlsson Thomas,  Carlsson Maria            |
+| 171                  | Carlsson Thomas,  Carlsson Maria           |
+| 173                  | Carlsson Thomas,  Carlsson Maria           |
 | 172                  | Norgren Anders, Norgren Marie              |
 | 174                  | Maria Näslund, Robert Munck                |
 | 175                  | Ödmark Lars                                |
@@ -101,6 +101,6 @@ image: img/img-20190920-wa0000.jpg
 | 188                  | Börjesson George                           |
 | 190                  | Häggblad Lars-Åke                          |
 | 192                  | Öberg Göran                                |
-| 196                  | Bäck Helena, Bäck Göran                                |
+| 196                  | Bäck Helena, Bäck Göran                    |
 | 198                  | Annelie Norman                             |
 | <!--EndFragment-->   |                                            |
