@@ -8,8 +8,8 @@ image: img/img-20190920-wa0000.jpg
 | -------------------- | ------------------------------------------ |
 | <!--StartFragment--> |                                            |
 |                      |                                            |
-|                      | Fastighetsägare                            |
-|                      |                                            |
+|                      |                                            |
+| Storsandsvägen       |                                            |
 |                      |                                            |
 | 0                    | Örnsköldsviks kommun                       |
 | 0                    | Örnsköldsviks kommun                       |
