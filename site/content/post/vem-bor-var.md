@@ -11,10 +11,10 @@ image: img/img-20190920-wa0000.jpg
 |                      |                                            |
 | Storsandsvägen       |                                            |
 |                      |                                            |
+|                      |                                            |
 | 0                    | Örnsköldsviks kommun                       |
-| 0                    | Örnsköldsviks kommun                       |
-| 0                    | Flodman Örjan                              |
-| 0                    | Engman Erna                                |
+|                      |                                            |
+|                      |                                            |
 | 0                    | Grisslans Intresseförening Nicke Andersson |
 | 101                  | Byström Åke                                |
 | 102                  | Tuovila Keijo                              |
@@ -72,7 +72,7 @@ image: img/img-20190920-wa0000.jpg
 | 168                  | Mogren Kerstin                             |
 | 169                  | Bylund Rolf                                |
 | 170                  | Söderquvist Ingela                         |
-| 0                    | Söderquvist Ingela                         |
+|                      |                                            |
 | 171                  | Carlsson Thomas,  Carlsson Maria           |
 | 173                  | Carlsson Thomas,  Carlsson Maria           |
 | 172                  | Norgren Anders, Norgren Marie              |
