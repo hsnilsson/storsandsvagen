@@ -84,7 +84,7 @@ image: img/img-20190920-wa0000.jpg
 | 179C               | Werkestam Robert                           |
 | 180                | Mähler Monica                              |
 | 181A               | Jonsson Gunvor                             |
-| 181B               |                                            |
+| 181B               | Lindblom Niklas                            |
 | 181C               | Holmlund Karin                             |
 | 182                | Ulla Norman                                |
 | 183A               | Torbjörn Byström                           |
