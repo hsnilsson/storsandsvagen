@@ -5,8 +5,8 @@ image: /img/img-20190920-wa0000.jpg
 blurb:
   heading: Här slutar allmän väg
   text: >-
-    Det finns faktiskt fler enskilda vägar än allmänna vägar i Sverige. De som
-    har ansvar för de enskilda vägarna är ofta en vägförening. Som Munkuddens
+    finns faktiskt fler enskilda vägar än allmänna vägar i Sverige. De som har
+    ansvar för de enskilda vägarna är ofta en vägförening. Som Munkuddens
     Vägsamfällighetsförening.
 
 
