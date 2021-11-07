@@ -1,7 +1,7 @@
 ---
 title: Munkuddens Vägsamfällighetsförening
 subtitle: Vägen som är mödan värd
-image: /img/img-20190920-wa0000.jpg
+image: img/indelning-map.png
 blurb:
   heading: Här slutar allmän väg
   text: >-
