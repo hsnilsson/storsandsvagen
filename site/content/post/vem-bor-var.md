@@ -60,7 +60,7 @@ image: img/img-20190920-wa0000.jpg
 | 157 B              | Abrahamsson Dick                           |
 | 159                | Wiklund KG                                 |
 | 160                | Douzette Birgitta                          |
-| 161                | Ann-Sofi Haglund, Svante Haglund           |
+| 161                |  Haglund Ann-Sofie, Haglund Svante         |
 | 162                | Åström Ann-Britt                           |
 | 163                | Rosita Demez                               |
 | 164                | Marklund Ann                               |
