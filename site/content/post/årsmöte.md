@@ -7,13 +7,11 @@ description: >
 ---
 Dagordning
 
-
-
 1 Mötets öppnande
 
 2 Röstlängd upprättas
 
-3 Mötetsbehöriga utlysning
+3 Mötets behöriga utlysning
 
 4 Fastställande av dagordning
 
@@ -39,7 +37,7 @@ Dagordning
 
 15 Val av 3 ordinarie ledamöter till styrelsen för 2 år
 
-16 Val av ordförande fr styrelsen för 1 år
+16 Val av ordförande för styrelsen för 1 år
 
 17 Val av 3 styrelsesuppleanter för 1 år
 
