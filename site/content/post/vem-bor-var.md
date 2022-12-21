@@ -60,7 +60,7 @@ image: img/img-20190920-wa0000.jpg
 | 157 B              | Abrahamsson Dick                           |
 | 159                | Wiklund KG                                 |
 | 160                | Douzette Birgitta                          |
-| 161                |  Haglund Ann-Sofie, Haglund Svante         |
+| 161                | Haglund Ann-Sofie, Haglund Svante          |
 | 162                | Åström Ann-Britt                           |
 | 163                | Rosita Demez                               |
 | 164                | Marklund Ann                               |
@@ -76,7 +76,7 @@ image: img/img-20190920-wa0000.jpg
 | 174                | Maria Näslund, Robert Munck                |
 | 175                | Ödmark Lars                                |
 | 177B               | Wallin Christina,  Nyström Anders          |
-| 176                | Johansson Sally                            |
+| 176                |                                            |
 | 177A               | Nordin Ulla                                |
 | 178                | Jonsson Anders                             |
 | 179A               | Hörnfeldt Thomas                           |
