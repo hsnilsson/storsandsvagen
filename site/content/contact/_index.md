@@ -1,5 +1,5 @@
 ---
-title: Kontakter
+title: Kontakt
 logo: /img/munkudden.jpg
 contact_entries: []
 ---
