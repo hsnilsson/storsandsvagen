@@ -4,13 +4,13 @@ date: 2020-12-06T10:00:27.893Z
 description: Vatten och avlopp i Gullvik
 image: img/ed88387c-73ba-4f18-b170-74102f98c8b1.webp
 ---
-<!--\\\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -50,9 +50,9 @@ image: img/ed88387c-73ba-4f18-b170-74102f98c8b1.webp
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -631,9 +631,9 @@ image: img/ed88387c-73ba-4f18-b170-74102f98c8b1.webp
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\\\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -660,13 +660,11 @@ image: img/ed88387c-73ba-4f18-b170-74102f98c8b1.webp
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
 **Här kommer kommunalt vatten och avlopp byggas ut**
-
-![](img/ed88387c-73ba-4f18-b170-74102f98c8b1.webp)
 
 **Nyänget/Paddal, Fjärdänget/Idbyn och Gullvik. I den ordningen kommer kommunalt vatten och avlopp byggas ut under den kommande tioårsperioden. Det har kommunfullmäktige fattat beslut om den 30 november. Det här är den största satsningen på utbyggnad av vatten- och avloppsnätet i kommunen sedan 1970-talet.**
 
