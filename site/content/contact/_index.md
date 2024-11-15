@@ -5,11 +5,11 @@ contact_entries: []
 ---
 Munkuddens Vägsamfällighetsförening
 
-* Ordförande; Dan Westerlind Storsandsvägen 198
+* Ordförande ;Dan Westerlind Storsandsvägen 198
 * Kassör; Ulf Wikman Storsandsvägen 104
-* Sekreterare; Camilla Nilsson Storsandsvägen 106
-* Ordinarie ledamöter; Börje Svärd Storsandsvägen 180 och Thomas Carlsson Storsandsvägen 173
-* Suppleanter; Ann-Britt Åström Storsandsvägen 162, Hazze Åström Storsandsvägen 162 och Ulf Andersson Storsandsvägen 144
+* Sekreterare; Dan Westerlind Storsandsvägen 198
+* Ordinarie ledamöter; Börje Svärd Storsandsvägen 180, Magnus Nilsson Storsandsvägen 106 och Jan Lindqvist Storsandsvägen 157A
+* Suppleanter; Ulf Andersson Storsandsvägen 144, Maria Hellsten Storsandsvägen 130 och Monica Mähler Storsandsvägen 180 
 
 <!--StartFragment-->
 
