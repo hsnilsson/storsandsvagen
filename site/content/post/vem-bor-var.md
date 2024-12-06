@@ -47,8 +47,8 @@ image: img/img-20190920-wa0000.jpg
 | 142 A 142 B        | Rydman Tomas, Rydman Johan                 |
 | 144                | Andersson Christina, Andersson Ulf         |
 | 146                | Ann-Catrin Backros                         |
-| 148                | Jansson Runa                               |
-| 151                | Jansson Runa                               |
+| 148                | J﻿ansson Michael                           |
+| 151                | Jansson Michael                            |
 | 150                | Nordin Berit                               |
 | 152                | Fossum Terje                               |
 | 153                | Fossum Terje                               |
@@ -73,10 +73,10 @@ image: img/img-20190920-wa0000.jpg
 | 171                | Carlsson Thomas,  Carlsson Maria           |
 | 173                | Carlsson Thomas,  Carlsson Maria           |
 | 172                | Norgren Anders, Norgren Marie              |
-| 174                | Maria Näslund, Robert Munck                |
+| 174                |  Munck Robert, Munck Maria                 |
 | 175                | Ödmark Lars                                |
 | 177B               | Wallin Christina,  Nyström Anders          |
-| 176                |                                            |
+| 176                | M﻿ats Viklund, Maria Halvarsson            |
 | 177A               | Nordin Ulla                                |
 | 178                | Jonsson Anders                             |
 | 179A               | Hörnfeldt Thomas                           |
@@ -91,13 +91,13 @@ image: img/img-20190920-wa0000.jpg
 | 183B               | Holmgren Birgitta                          |
 | 183C               | Granlöf Lars-Ove                           |
 | 183D               | Lundqvist Ing-Britt                        |
-| 184                | Schulze Jörgen                             |
+| 184                | M﻿oström Kjell-Håkan                       |
 | 186                | Schulze Jörgen                             |
 | 185                | Nilsson Inger, Bo                          |
 | 187                | Sjölund Jan-Åke                            |
 | 188                | Börjesson George                           |
-| 190                | Häggblad Lars-Åke                          |
-| 192                | Öberg Göran                                |
+| 190                | Häggblad                                   |
+| 192                | Öberg Lucette                              |
 | 196                | Bäck Helena, Bäck Göran                    |
-| 198                | Annelie Norman                             |
+| 198                | Norman Annelie                             |
 | <!--EndFragment--> |                                            |
