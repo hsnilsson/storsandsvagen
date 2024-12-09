@@ -46,7 +46,7 @@ image: img/img-20190920-wa0000.jpg
 | 141                | Bagger Carina                              |
 | 142 A 142 B        | Rydman Tomas, Rydman Johan                 |
 | 144                | Andersson Christina, Andersson Ulf         |
-| 146                | Ann-Catrin Backros                         |
+| 146                | Ann-Catrin Rosander                        |
 | 148                | J﻿ansson Michael                           |
 | 151                | Jansson Michael                            |
 | 150                | Nordin Berit                               |
@@ -73,10 +73,10 @@ image: img/img-20190920-wa0000.jpg
 | 171                | Carlsson Thomas,  Carlsson Maria           |
 | 173                | Carlsson Thomas,  Carlsson Maria           |
 | 172                | Norgren Anders, Norgren Marie              |
-| 174                |  Munck Robert, Munck Maria                 |
+| 174                | Munk Robert, Munk Maria                    |
 | 175                | Ödmark Lars                                |
 | 177B               | Wallin Christina,  Nyström Anders          |
-| 176                | M﻿ats Viklund, Maria Halvarsson            |
+| 176                | Viklund Mats, Halvarsson Maria             |
 | 177A               | Nordin Ulla                                |
 | 178                | Jonsson Anders                             |
 | 179A               | Hörnfeldt Thomas                           |
@@ -87,7 +87,7 @@ image: img/img-20190920-wa0000.jpg
 | 181B               | Lindblom Niklas                            |
 | 181C               | Holmlund Karin                             |
 | 182                | Ulla Norman                                |
-| 183A               | Torbjörn Byström                           |
+| 183A               | B﻿yström Torbjörn                          |
 | 183B               | Holmgren Birgitta                          |
 | 183C               | Granlöf Lars-Ove                           |
 | 183D               | Lundqvist Ing-Britt                        |
