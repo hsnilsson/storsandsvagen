@@ -7,8 +7,8 @@ Munkuddens Vägsamfällighetsförening
 
 * Ordförande; Markus Ögren Storsandsvägen 129
 * Kassör; Ulf Wikman Storsandsvägen 104
-* Sekreterare; 
-* Ordinarie ledamöter; Maria Hellsten Storsandsvägen 130, Magnus Nilsson Storsandsvägen 106 och Jan Lindqvist Storsandsvägen 157
+* Sekreterare; Maria Hellsten Storsandsvägen 130
+* Ordinarie ledamöter; Magnus Nilsson Storsandsvägen 106 och Jan Lindqvist Storsandsvägen 157
 * Suppleanter; Ulf Andersson Storsandsvägen 144, Mari Nilsson Storsandsvägen 112, Inger Nilsson Storsandsvägen 106
 
 <!--StartFragment-->
