@@ -1,6 +1,6 @@
 ---
 title: Vatten och avlopp i Gullvik
-date: 2026-07-09T19:38:00.168Z
+date: 2026-07-24T18:40:42.717Z
 description: Svar från Lars Wesberg, MIVA.
 ---
 <!--StartFragment-->
