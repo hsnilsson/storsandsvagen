@@ -1,5 +1,5 @@
 ---
-title: Vatten och avlopp i Gullvik
+title: Vatten och avlopp i Gullvik 2026
 date: 2026-07-24T18:46:17.096Z
 description: Lars Westberg, MIVA, angående vatten och avlopp i Gullvik
 ---
